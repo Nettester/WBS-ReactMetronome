@@ -47,6 +47,8 @@ export default function Metronome() {
     audioClick1.play();
   };
 
+  
+
     return (
         <div className="metronome">
             <div className="bpm-slider">
